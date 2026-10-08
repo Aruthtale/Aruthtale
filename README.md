@@ -24,6 +24,8 @@
 ```typescript
 const Aruthtale = {
   creator: "Zenixu (Zennrch)",
+  website: "aruthtales.my.id",
+  profile: "rchibnu.aruthtales.my.id",
   focus: [
     "Native Mobile & Hybrid Apps (Capacitor / Android)",
     "High-Concurrency Web SaaS (Laravel 12 / Next.js)",
@@ -37,7 +39,26 @@ const Aruthtale = {
 
 ---
 
+## 🌐 Official Site
+
+<p>
+  <a href="https://aruthtales.my.id">
+    <img src="https://img.shields.io/badge/Showcase-aruthtales.my.id-05C46B?style=for-the-badge&logo=vercel&logoColor=white" alt="Showcase" />
+  </a>
+  <a href="https://rchibnu.aruthtales.my.id">
+    <img src="https://img.shields.io/badge/Profile-rchibnu.aruthtales.my.id-FF525E?style=for-the-badge&logo=about.me&logoColor=white" alt="Profile" />
+  </a>
+</p>
+
+> **The Work** lives at [`aruthtales.my.id`](https://aruthtales.my.id) — case studies, live demos, and technical proof.
+> **The Person** lives at [`rchibnu.aruthtales.my.id`](https://rchibnu.aruthtales.my.id) — bio, certificates, and contact.
+
+---
+
 ## 🚀 Core Ecosystem & Featured Projects
+
+- 🌐 **[Arfolio](https://aruthtales.my.id)**  
+  *The Aruthtale Umbrella Site* — Next.js + TypeScript pnpm monorepo hosting two doors: the work showcase at `aruthtales.my.id` and the personal profile at `rchibnu.aruthtales.my.id`. Full SEO stack: JSON-LD, canonical, and dynamic OG images.
 
 - 📱 **[Arplication](https://github.com/Aruthtale/Arplication)**  
   *Modular Mobile Utility & Media Suite* — Built with React, Vite, and custom native Capacitor Android plugins. Features offline-first audio resolution, background task processing, and direct hardware integration.
